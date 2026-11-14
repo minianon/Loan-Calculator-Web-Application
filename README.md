@@ -65,3 +65,11 @@ The application's source code is organized into components, services, and styles
 - **Styles**: The application uses SCSS for styling, and styles are organized in separate component-specific CSS/SCSS files.
 
 - **Models**: The `Graph` model defines the structure of data for the bar graph.
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
